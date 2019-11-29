@@ -1,0 +1,41 @@
+{
+  "posts": [
+    {
+      "title": "Post Two Edited",
+      "body": "Some cool content for post two",
+      "author": "Palak",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "title": "Post Three",
+      "body": "Some cool content for post three",
+      "author": "Palak"
+    },
+    {
+      "title": "Post infinity",
+      "author": "palak",
+      "body": "hello",
+      "id": 4
+    },
+    {
+      "title": "",
+      "author": "",
+      "body": "",
+      "id": 5
+    },
+    {
+      "title": "",
+      "author": "",
+      "body": "",
+      "id": 6
+    },
+    {
+      "title": "",
+      "author": "",
+      "body": "",
+      "id": 7
+    }
+  ],
+  "comments": []
+}
